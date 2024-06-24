@@ -1,4 +1,4 @@
-package ISEE.graphic;
+package script;
 
 import java.util.ArrayList;
 import java.util.regex.Matcher;
